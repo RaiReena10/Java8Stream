@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "make": "Toyota",
+    "model": "Highlander",
+    "price": "23736.62",
+    "year": 2008,
+    "color": "Mauv"
+  },
+  {
+    "id": 2,
+    "make": "Toyota",
+    "model": "Solara",
+    "price": "66403.47",
+    "year": 2002,
+    "color": "Fuscia"
+  },
+  {
+    "id": 3,
+    "make": "Ford",
+    "model": "Expedition EL",
+    "price": "68973.04",
+    "year": 2010,
+    "color": "Pink"
+  },
+  {
+    "id": 4,
+    "make": "Toyota",
+    "model": "Previa",
+    "price": "34881.54",
+    "year": 1997,
+    "color": "Indigo"
+  },
+  {
+    "id": 5,
+    "make": "Lexus",
+    "model": "SC",
+    "price": "20900.33",
+    "year": 2010,
+    "color": "Pink"
+  },
+  {
+    "id": 6,
+    "make": "Acura",
+    "model": "MDX",
+    "price": "87249.54",
+    "year": 2005,
+    "color": "Blue"
+  },
+  {
+    "id": 7,
+    "make": "Ford",
+    "model": "Econoline E250",
+    "price": "33679.71",
+    "year": 2002,
+    "color": "Pink"
+  },
+  {
+    "id": 8,
+    "make": "Lincoln",
+    "model": "Navigator L",
+    "price": "37768.38",
+    "year": 2009,
+    "color": "Yellow"
+  },
+  {
+    "id": 9,
+    "make": "Toyota",
+    "model": "Tercel",
+    "price": "31696.49",
+    "year": 1997,
+    "color": "Indigo"
+  },
+  {
+    "id": 10,
+    "make": "Ford",
+    "model": "Mustang",
+    "price": "65528.11",
+    "year": 2011,
+    "color": "Blue"
+  },
+  {
+    "id": 11,
+    "make": "Toyota",
+    "model": "RAV4",
+    "price": "36050.89",
+    "year": 2006,
+    "color": "Pink"
+  },
+  {
+    "id": 12,
+    "make": "Hummer",
+    "model": "H1",
+    "price": "14187.98",
+    "year": 1998,
+    "color": "Red"
+  },
+  {
+    "id": 13,
+    "make": "Mercury",
+    "model": "Mystique",
+    "price": "6145.60",
+    "year": 1996,
+    "color": "Red"
+  },
+  {
+    "id": 14,
+    "make": "Volvo",
+    "model": "S60",
+    "price": "98783.12",
+    "year": 2012,
+    "color": "Maroon"
+  },
+  {
+    "id": 15,
+    "make": "Mitsubishi",
+    "model": "Mirage",
+    "price": "92560.44",
+    "year": 2001,
+    "color": "Mauv"
+  },
+  {
+    "id": 16,
+    "make": "Ford",
+    "model": "Laser",
+    "price": "16117.68",
+    "year": 1988,
+    "color": "Teal"
+  }]
